@@ -27,4 +27,10 @@ body {
   padding: 32px;
   font-style: italic;
 }
+  a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
 }  
