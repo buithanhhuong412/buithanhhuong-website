@@ -4,6 +4,7 @@ body {
   font-family: STIX Two Text;
   font-size: 18px;
   .top-right-text {
-  position: absolute;
+    position: absolute;
+    font-style: italic;
 }
 }
