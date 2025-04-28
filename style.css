@@ -10,30 +10,33 @@ body {
   .container {
   position: relative;
 }
-  .center-center-italic {
+   .center-center-italic {
     display: flex;
     justify-content: center;
     align-items: center;
     font-style: italic;
-}
-  .center-left-italic {
+ }
+   .center-left-italic {
     display: flex;
     justify-content: flex-start;
     align-items: center;
     padding: 32px;
     font-style: italic;
-}
-  .bottom-center-italic {
+ }
+   .bottom-center-italic {
   display: flex;
   justify-content: center;
   align-items: flex-end;
   padding: 32px;
   font-style: italic;
-}
-  .top-right-italic {
-  position: absolute;
-  text-align: right;
-}
+ }
+   .top-right-italic {
+   position: absolute;
+   top: 0;
+   right: 0;
+   padding: 32px;
+   text-align: right; 
+ }
   a {
   text-decoration: none;
 }
