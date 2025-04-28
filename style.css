@@ -20,4 +20,11 @@ body {
     padding: 32px;
     font-style: italic;
 }
+  .bottom-center-italic {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  padding: 32px;
+  font-style: italic;
+}
 }  
