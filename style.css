@@ -3,4 +3,7 @@ body {
   color: #1D3413;
   font-family: STIX Two Text;
   font-size: 18px;
+  .top-right-text {
+  position: absolute;
+}
 }
