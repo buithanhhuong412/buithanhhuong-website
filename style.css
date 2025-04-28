@@ -37,7 +37,10 @@ body {
    padding: 32px;
    text-align: right; 
  }
-  .italic17: 17px;
+  .italic-17 {
+   font: 17px;
+   font-style: italic;
+  }
   a {
   text-decoration: none;
 }
