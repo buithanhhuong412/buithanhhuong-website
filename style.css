@@ -7,6 +7,9 @@ body {
     position: absolute;
     font-style: italic;
 }
+  .container {
+  position: relative;
+}
   .center-center-italic {
     display: flex;
     justify-content: center;
@@ -26,6 +29,10 @@ body {
   align-items: flex-end;
   padding: 32px;
   font-style: italic;
+}
+  .top-right-italic {
+  position: absolute;
+  text-align: right;
 }
   a {
   text-decoration: none;
