@@ -46,4 +46,14 @@ a:hover {
   a:visited {
   color: #1D3413;
 } 
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.container img {
+  max-width: 100%;
+  height: auto;
+  margin: 32px;
+}
 }
