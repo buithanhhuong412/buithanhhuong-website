@@ -15,6 +15,7 @@ body {
     justify-content: center;
     align-items: center;
     font-style: italic;
+    font: 17px;
  }
    .center-left-italic {
     display: flex;
@@ -22,6 +23,7 @@ body {
     align-items: center;
     padding: 32px;
     font-style: italic;
+    font: 17px;
  }
    .bottom-center-italic {
   display: flex;
@@ -29,18 +31,16 @@ body {
   align-items: flex-end;
   padding: 32px;
   font-style: italic;
+  font: 17px;
  }
    .top-right-italic {
    position: absolute;
    top: 0;
    right: 0;
    padding: 32px;
-   text-align: right; 
- }
-  .italic-17 {
+   text-align: right;
    font: 17px;
-   font-style: italic;
-  }
+ }
   a {
   text-decoration: none;
 }
